@@ -1,7 +1,7 @@
 ###
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40r00tkie)](https://twitter.com/r00tkie)
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/r00tkie)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/r00tkie?style=social)
 
 # Encoder
 
