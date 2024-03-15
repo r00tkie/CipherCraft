@@ -1,3 +1,6 @@
+###
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40r00tkie)]([(https://twitter.com/r00tkie)https://twitter.com/r00tkie)]
+
 # Encoder
 
 ## Overview
@@ -42,6 +45,6 @@ Loader Code Generation: Utilize the `-L` option to generate a ready-to-compile l
 This tool is intended for educational and ethical use only. Do not use it for any malicious activities. The authors are not responsible for any misuse of this tool.
 
 ## Credits
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40MalDevAcademy)](https://twitter.com/MalDevAcademy)
+https://github.com/NUL0x4C/HellShell
+https://maldevacademy.com/
 
-[![Twitter URL](https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e?style=social&label=Follow%20%40MalDevAcademy)](https://twitter.com/MalDevAcademy)
