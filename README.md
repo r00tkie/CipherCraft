@@ -42,4 +42,6 @@ Loader Code Generation: Utilize the `-L` option to generate a ready-to-compile l
 This tool is intended for educational and ethical use only. Do not use it for any malicious activities. The authors are not responsible for any misuse of this tool.
 
 ## Credits
-https://twitter.com/MalDevAcademy 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40MalDevAcademy)]([https://twitter.com/bukotsunikki](https://twitter.com/MalDevAcademy))
+
+https://twitter.com/MalDevAcademy  https://maldevacademy.com/
