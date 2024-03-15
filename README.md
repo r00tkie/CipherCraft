@@ -1,5 +1,5 @@
 ###
-[![Twitter URL](https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e?style=social&label=Follow%20%40r00tkie)](https://twitter.com/r00tkie)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40r00tkie)](https://twitter.com/r00tkie)
 
 # Encoder
 
