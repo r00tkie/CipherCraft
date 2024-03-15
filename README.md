@@ -1,5 +1,5 @@
 ###
-[![Static Badge](https://img.shields.io/badge/)](https://pwntales.com/)
+[![Static Badge](https://img.shields.io/badge/My_blog)](https://pwntales.com/)
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/r00tkie?style=social)](https://twitter.com/r00tkie)
 
