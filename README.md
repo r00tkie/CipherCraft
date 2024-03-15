@@ -2,14 +2,14 @@
 
 ## Overview
 
-This powerful tool lets you obfuscate your payload and generate a loader for multiple encryption types. 
+This tool lets you obfuscate your payload and generate a loader for multiple encryption types. 
 It can process raw shellcode as input and provides a range of encoding/encryption options, including IPv4 and IPv6 addresses, XOR, AES, RC4, MAC addresses, and UUID addresses.
 
 ## Features
 
-Algorithm Choices: Choose from a variety of encoding algorithms to customize the obfuscation process.
+Algorithm Choices: Choose from various encoding algorithms to customize the obfuscation process.
 Cipher Generation: Obtain the encoded shellcode as a cipher for further use or analysis.
-Loader Code Generation: Utilize the `-L` option to generate ready-to-compile loader.
+Loader Code Generation: Utilize the `-L` option to generate a ready-to-compile loader.
 
 ### Usage
 ```bash
@@ -40,3 +40,6 @@ Loader Code Generation: Utilize the `-L` option to generate ready-to-compile loa
 ## Disclaimer
 
 This tool is intended for educational and ethical use only. Do not use it for any malicious activities. The authors are not responsible for any misuse of this tool.
+
+## Credits
+https://twitter.com/MalDevAcademy 
