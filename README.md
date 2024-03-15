@@ -2,7 +2,8 @@
 
 ## Overview
 
-This Python script is a versatile tool designed to encode shellcode using various algorithms, providing an extra layer of obfuscation. It takes raw shellcode as input and allows you to encode it using different methods, such as IPv4 addresses, IPv6 addresses, XOR, AES, RC4, MAC addresses, and UUID addresses.
+This powerful tool lets you obfuscate your payload and generate a loader for multiple encryption types. 
+It can process raw shellcode as input and provides a range of encoding/encryption options, including IPv4 and IPv6 addresses, XOR, AES, RC4, MAC addresses, and UUID addresses.
 
 ## Features
 
